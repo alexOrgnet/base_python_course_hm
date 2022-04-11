@@ -7,6 +7,7 @@
 """
 
 
+
 class Stationery:
 
     def __init__(self, title):
