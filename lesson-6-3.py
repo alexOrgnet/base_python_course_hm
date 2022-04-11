@@ -30,3 +30,4 @@ position = Position('Ivan', 'Ivanovich', 'Driver', '100000', '20000')
 
 print(position.get_full_name(), position.get_total_income())
 
+
