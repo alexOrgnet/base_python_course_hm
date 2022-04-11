@@ -24,3 +24,4 @@ class Road:
 
 r = Road(1000, 10)
 r.mass_asphalt()
+
